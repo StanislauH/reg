@@ -1,0 +1,3 @@
+﻿  reg.cpp
+D:\оимп\reg\reg.cpp(20,23): warning C4018: <: несоответствие типов со знаком и без знака
+  reg.vcxproj -> D:\оимп\reg\Debug\reg.exe
